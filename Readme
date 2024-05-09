@@ -1,0 +1,9 @@
+Java Exception Handling 
+
+Throw - The java throw keyword is used to throw the exception explicitly inside the function or block of code.
+We can throw only one exception at a time. 
+
+Throws - The java throws keyword is used to declare the exception. USed in method signature.
+We can declare multiple at a time. 
+
+The checked exception should be declared. 
