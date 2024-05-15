@@ -1,6 +1,6 @@
 //program for abstract class
 
-package com.shikhara.oops;
+package com.shikhara.abstractandinterface;
 
 
 
