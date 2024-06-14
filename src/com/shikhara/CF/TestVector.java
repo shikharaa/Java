@@ -7,6 +7,7 @@ public class TestVector {
 	public static void main(String[] args) {
 
 		Vector<String> v = new Vector<String>(4);
+		Vector obj = new Vector();
 		System.out.println(v.capacity());
 		v.add("A");
 		v.add("N");

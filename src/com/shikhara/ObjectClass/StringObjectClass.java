@@ -36,6 +36,19 @@ public class StringObjectClass {
 		
 		System.out.println("Replace string-all places: " + name.replace("bad", "good"));
 		
+		
+		StringBuilder sb1 = new StringBuilder("Hello");
+        StringBuilder sb2 = new StringBuilder("Hello");
+
+        
+        boolean areEqual = sb1.equals(sb2); 
+        
+        boolean areContentEqual = sb1.toString().equals(sb2.toString());
+
+       
+        System.out.println("Using default equals method: " + areEqual);
+        System.out.println("Using content comparison: " + areContentEqual);
+		
 	}
 
 }

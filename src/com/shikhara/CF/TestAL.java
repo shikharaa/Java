@@ -14,6 +14,8 @@ public class TestAL {
         names.add("A");
         names.add("B");
         names.add("C");
+        
+        
 
         Iterator<String> iterator = names.iterator();
 
